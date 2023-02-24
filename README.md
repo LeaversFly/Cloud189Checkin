@@ -5,7 +5,7 @@
 ## Fork此仓库
 ![](https://cdn.jsdelivr.net/gh/wes-lin/Cloud189Checkin/image/fork.png)
 ## 设置账号密码
-新版本的git Action 需要创建environment来配合使用，创建一个名为user的环境。
+新版本的git Action 需要创建environment来配合使用，创建一个名为user的环境
 ![](https://cdn.jsdelivr.net/gh/wes-lin/Cloud189Checkin/image/env.png)
 创建好后编辑user环境，添加两个变量TY_USER_NAME 是你的天翼网盘账号，TY_PASSWORD 是的你密码。
 ![](https://cdn.jsdelivr.net/gh/wes-lin/Cloud189Checkin/image/config.png)
@@ -26,7 +26,7 @@ Node.js 14+
 ```
 ### 克隆项目
 ```bash
-git clone https://github.com/wes-lin/Cloud189Checkin.git
+git clone https://github.com/wes-lin/Cloud189Checkin.gits
 ```
 ```bash
 cd Cloud189Checkin
